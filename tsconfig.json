@@ -2,7 +2,8 @@
   "compilerOptions": {
     "target": "es5",
     "lib": [
-      "dom"
+      "dom",
+      "esnext"
     ],
     "sourceMap": true,
     "allowJs": true,
